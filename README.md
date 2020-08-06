@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a freelance architect and engineer. Want to work together? Learn more at [benlimmer.com](https://benlimmer.com/freelance).
+
 <!--
 **blimmer/blimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
